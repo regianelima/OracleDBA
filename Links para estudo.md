@@ -1,9 +1,6 @@
 
 ![oracle-logo](https://user-images.githubusercontent.com/6154672/210021433-9fdd069a-9d78-4958-9984-2d8ac8638731.png)   
 
-
-</br>
-
 # Youtube   
 
 </br>

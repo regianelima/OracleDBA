@@ -4,9 +4,9 @@
 
 </br>
 Nos canais abaixo, existem ótimos conteúdos para estudo:  
-
 </br>
-
+</br>
+</br>
 
 [DBAOCM](https://www.youtube.com/@CanalDBAOCM)
 
@@ -22,11 +22,13 @@ Nos canais abaixo, existem ótimos conteúdos para estudo:
 </br>
 </br>
 
-# Sites
+# Sites e Blogs
 
 </br>
 
-Aqui você tem todo o conteúdo teórico dos cursos do prof.º Portilho (ele é o cara rs) [Nerv Informática](http://nervinformatica.com.br/blog/index.php/materiais/)
+[Nerv Informática](http://nervinformatica.com.br/blog/index.php/materiais/) 
+
+[Blog do DBA/Instrutor Fábio Prado](https://www.fabioprado.net/)
 
 [Grupo de Profissionais Oracle](https://www.profissionaloracle.com.br/)
 
